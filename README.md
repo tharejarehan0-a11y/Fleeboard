@@ -31,4 +31,6 @@ Then while routing u use the footprints <br>
 10. Pin Headers ( Sides ) - PinHeader_1x20_P2.54mm_Vertical <br>
 
 <img width="1470" height="956" alt="Screenshot 2026-06-05 at 6 58 44 AM" src="https://github.com/user-attachments/assets/bd05da8d-e7d3-45d1-b2b6-b564f55adcbf" />
+<br>
+# BOM <br>
 
