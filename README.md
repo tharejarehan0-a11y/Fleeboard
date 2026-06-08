@@ -33,4 +33,25 @@ Then while routing u use the footprints <br>
 <img width="1470" height="956" alt="Screenshot 2026-06-05 at 6 58 44 AM" src="https://github.com/user-attachments/assets/bd05da8d-e7d3-45d1-b2b6-b564f55adcbf" />
 <br>
 # BOM <br>
+**Sidenote for reviewers**
+_(There is a chance that ktron.in does not accept the hcb money if it happens then i will pay my self)_
+
+| #  | Company                              | Part                                 | Quantity |   Price  | Link                                                                                              |
+|----|--------------------------------------|--------------------------------------|-------|----------|---------------------------------------------------------------------------------------------------|
+| 1 | JLCPCB | PCB                                  | 1     | 12.25$   | https://www.jlcpcb.com |                                                |
+| 2 | JLCPCB | Raspberry Pi Pico                    | 1     | ₹400     | https://www.jlcpcb.com |
+| 3 | JLCPCB | Male Headers (40x1 pin 2.54mm pitch) | 2     | ₹20      | https://www.jlcpcb.com |
+| 4 | JLCPCB | 1N4148 Diodes                        | 30    | ₹180     | https://www.jlcpcb.com |
+| 5 | JLCPCB | SMD 0603 Capacitors 100nF            | 25    | ₹20      | https://www.jlcpcb.com |
+| 6 | JLCPCB | SMD 0603 Capacitors 10uF             | 5     | ₹20      | https://www.jlcpcb.com |
+| 7 | JLCPCB | MX Cherry Keyswitches                | 45    | ₹1200    | https://www.jlcpcb.com |
+| 8 | JlCPCB | MX Cherry Keycaps                    | 130+  | ₹2500    | https://www.jlcpcb.com |
+| 9 | JLCPCB | Case                                 | 1     | $2       | https://www.jlcpcb.com |
+| 10 | JLCPCB | M2x6mm Screws                       | 25    | ₹105     | https://www.jlcpcb.com |
+| 11 | JLCPCB | M2x8mm Screws                       | 25    | ₹110     | https://www.jlcpcb.com |
+| 12 | JLCPCB | M2 Nuts                             | 25    | ₹150     | https://www.jlcpcb.com |
+| 13 | JLCPCB | Stabilizers                         | 4+1   | ₹1595    | https://www.jlcpcb.com |
+| 14 | JLCPCB | SW_Push Buttons                     | 25    | ₹25      | https://www.jlcpcb.com |
+| 15 | Shipping&Taxes | N/A                                  | All   | ₹700+39$ | N/A                                                                                               |
+
 
