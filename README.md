@@ -36,22 +36,33 @@ Then while routing u use the footprints <br>
 **Sidenote for reviewers**
 _(There is a chance that ktron.in does not accept the hcb money if it happens then i will pay my self)_
 
-| #  | Company                              | Part                                 | Quantity |   Price  | Link                                                                                              |
-|----|--------------------------------------|--------------------------------------|-------|----------|---------------------------------------------------------------------------------------------------|
-| 1 | JLCPCB | PCB                                  | 1     | 12.25$   | https://www.jlcpcb.com |                                                |
-| 2 | JLCPCB | Raspberry Pi Pico                    | 1     | ₹400     | https://www.jlcpcb.com |
-| 3 | JLCPCB | Male Headers (40x1 pin 2.54mm pitch) | 2     | ₹20      | https://www.jlcpcb.com |
-| 4 | JLCPCB | 1N4148 Diodes                        | 30    | ₹180     | https://www.jlcpcb.com |
-| 5 | JLCPCB | SMD 0603 Capacitors 100nF            | 25    | ₹20      | https://www.jlcpcb.com |
-| 6 | JLCPCB | SMD 0603 Capacitors 10uF             | 5     | ₹20      | https://www.jlcpcb.com |
-| 7 | JLCPCB | MX Cherry Keyswitches                | 45    | ₹1200    | https://www.jlcpcb.com |
-| 8 | JlCPCB | MX Cherry Keycaps                    | 130+  | ₹2500    | https://www.jlcpcb.com |
-| 9 | JLCPCB | Case                                 | 1     | $2       | https://www.jlcpcb.com |
-| 10 | JLCPCB | M2x6mm Screws                       | 25    | ₹105     | https://www.jlcpcb.com |
-| 11 | JLCPCB | M2x8mm Screws                       | 25    | ₹110     | https://www.jlcpcb.com |
-| 12 | JLCPCB | M2 Nuts                             | 25    | ₹150     | https://www.jlcpcb.com |
-| 13 | JLCPCB | Stabilizers                         | 4+1   | ₹1595    | https://www.jlcpcb.com |
-| 14 | JLCPCB | SW_Push Buttons                     | 25    | ₹25      | https://www.jlcpcb.com |
-| 15 | Shipping&Taxes | N/A                                  | All   | ₹700+39$ | N/A                                                                                               |
+# Bill of Materials (BOM)
+
+| Designator | Footprint | Qty | Value | Price | Supplier | Link |
+|------------|-----------|-----|--------|--------|----------|------|
+| C1, C10, C11, C12, C17, C2, C3, C4, C5, C6, C7, C8, C9 | 0402 | 13 | 100nF | ₹34.84 | Robu | [GRM155R71C104JA88D](https://robu.in/product/grm155r71c104ja88d-murata-electronics-16v-100nf-x7r-%c2%b15-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) |
+| C13, C14 | 0402 | 2 | 10µF | ₹27.00 | Robu | [CC0402MRX5R5BB106](https://robu.in/product/cc0402mrx5r5bb106-yageo-cap-smd-mlcc-10-%c2%b5f-6-3-v-0402-1005-metric-20-x5r-cc-series/) |
+| C15, C16 | 0402 | 2 | 33pF | ₹12.00 | Robu | [GRM1555C2A330JA01D](https://robu.in/product/grm1555c2a330ja01d-murata-electronics-100v-33pf-null-%c2%b15-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) |
+| J1 | USB_C_Receptacle_HRO_TYPE-C-31-M-12 | 1 | USB_C_Receptacle_USB2.0_14P | ₹54.00 | Robu | [TYPE-C-31-M-22](https://robu.in/product/type-c-31-m-22-hroparts-5a-1-surface-mount-right-angle-16p-female-30%e2%84%8385%e2%84%83-type-c-smd-usb-connectors-rohs/) |
+| J2, J3 | PinHeader_1x20_P2.54mm_Vertical | 2 | Conn_01x20 | ₹28.00 | Robu | [Pin Header](https://robu.in/product/1-month-warranty-898/) |
+| J4 | PinHeader_1x03_P2.54mm_Vertical | 1 | Conn_01x03 | ₹11.97 | Robu | [Pin Header](https://robu.in/product/ph2-54-01-08pzd-xunpu-straight-policy-2-5mm-8p-6mm-40%e2%84%83105%e2%84%83-3mm-2-54mm-black-brass-single-row-1x8p-pluginp2-54mm-pin-headers-rohs/) |
+| R1, R2 | 0402 | 2 | 27Ω | ₹10.26 | Robu | [AC0402JR-0727RL](https://robu.in/product/ac0402jr-0727rl-yageo-res-thick-film-0402-27-ohm-5-0-063w1-16w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/) |
+| R3, R4 | 0402 | 2 | 5.1kΩ | ₹11.52 | Robu | [CRCW04025K10FKEDC](https://robu.in/product/crcw04025k10fkedc-vishay-smd-chip-resistor-5-1-kohm-%c2%b1-1-63-mw-0402-1005-metric-thick-film-general-purpose/) |
+| R5, R6 | 0402 | 2 | 1kΩ | ₹11.67 | Robu | [RT1206FRE071KL](https://robu.in/product/rt1206fre071kl-yageo-smd-chip-resistor1-kohm%c2%b1-1250-mw1206-3216-metricthin-film/) |
+| R7 | 0402 | 1 | 10kΩ | ₹10.14 | Robu | [AC0402FR-0710KL](https://robu.in/product/ac0402fr-0710kl-yageo-res-thick-film-0402-10k-ohm-1-0-063w1-16w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/) |
+| SW1 | SW_Push_SPST_NO_Alps_SKRK | 2 | Push Button | ₹354.00 | LionCircuits | [SKRKAHE020](https://www.lioncircuits.com/parts/SKRKAHE020) |
+| U1 | QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm | 1 | RP2040 | ₹68.00 | Robocraze | [RP2040](https://robocraze.com/products/raspberry-pi-rp2040-microcontroller-ic-chip?variant=40531158040729) |
+| U2 | SOT-23 | 1 | MCP1700-3302E/TT | ₹78.00 | Robu | [MCP1700T-3302E/TT](https://robu.in/product/mcp1700t-3302e-tt-microchip-technology-3-3v-250ma-fixed-output-ldo-linear-voltage-regulator-3-pin-sot-23/) |
+| U3 | Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm | 1 | W25Q128JVS | ₹294.00 | Robu | [W25Q128JVSIQ](https://robu.in/product/w25q128jvsiq-winbond-electronics-serial-nor-flash-memory-dual-quad-spi-3v-128mbit-133mhz-8pin-soic/) |
+| Y1 | Crystal_SMD_3225-4Pin_3.2x2.5mm | 1 | 12MHz Crystal | ₹48.00 | Robu | [OT2JI-111-12M](https://robu.in/product/ot2ji-111-12m/) |
+| N/A | Shipping&Taxes | N/A | N/A                                    | ₹700+39$ | N/A | N/A |
+
+## Estimated Total Cost
+
+**≈ ₹1,900.00**
+
+> Prices may vary over time and based on stock availability.
+
+
 
 
