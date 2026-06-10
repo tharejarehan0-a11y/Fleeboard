@@ -1,4 +1,4 @@
-# Flipboard
+# Fleeboard
 <p align="center">
   <img width="420" height="595" alt="Zine" src="https://github.com/user-attachments/assets/921bd81f-2987-457a-bbb7-5784dd9ede12" />
 </p>
