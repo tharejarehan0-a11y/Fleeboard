@@ -67,5 +67,9 @@ _(There is a chance that ktron.in does not accept the hcb money if it happens th
 > Prices may vary over time and based on stock availability.
 
 
+# Problems
+I faced a lot of problems in this project i started with some differnt idea in my mind of building my own thing like a desktop companion and made the project to complicated for me and i tried to work it out a lot made it through the pcb but then it was js out of my league then i asked sam liu if i can change up my mind and do something about it or change the project completely so what i did i took the knowledge for the hardware fromt the blueprint guide credits to team that built that and did a little bit of changes to it and this fleeboard was invented
+
+
 
 
