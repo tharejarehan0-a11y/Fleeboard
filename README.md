@@ -1,6 +1,6 @@
 # Fleeboard
 <p align="center">
-  <img width="420" height="595" alt="Zine" src="https://github.com/user-attachments/assets/921bd81f-2987-457a-bbb7-5784dd9ede12" />
+  <img width="420" height="595" alt="image" src="https://github.com/user-attachments/assets/c97c900b-bddb-4bbb-9ac9-b35d8af7d2cf" />
 </p>
 
 https://github.com/user-attachments/assets/660d7121-47da-4f55-9c74-c2678141ec92
