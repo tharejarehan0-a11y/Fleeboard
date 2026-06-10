@@ -35,6 +35,15 @@ Then while routing u use the footprints <br>
 
 <img width="1470" height="956" alt="Screenshot 2026-06-05 at 6 58 44 AM" src="https://github.com/user-attachments/assets/bd05da8d-e7d3-45d1-b2b6-b564f55adcbf" />
 <br>
+
+# Firmware
+
+<img width="1470" height="956" alt="Screenshot 2026-06-11 at 5 20 55 AM" src="https://github.com/user-attachments/assets/2094503e-6222-44bd-aeff-2391986238cc" />
+
+Then i wrote the firmware for blinking a led light so that the board can be tested with the code and its in c testing the gpio 25 as it is pin that will help you light up a led
+
+The file is led.c in firmware folder for testing
+
 # BOM <br>
 **Sidenote for reviewers**
 _(There is a chance that ktron.in does not accept the hcb money if it happens then i will pay my self)_
